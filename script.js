@@ -45,7 +45,7 @@ ScrollReveal().reveal('.home-content h1, .about-img', { origin: 'left' });
 ScrollReveal().reveal('.home-content p, .about-content', { origin: 'right' });
 
 const typed = new Typed('.multiple-text', {
-    strings: ['Estudante de Ciência da computação'],
+    strings: ['Desemvolvedor Back-End Trainee', 'Estudante de Ciência da Computação' ],
     typedSpeed: 100,
     backSpeed: 100,
     backDelay: 1000,
