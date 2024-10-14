@@ -14,7 +14,7 @@ Este é o meu portfólio pessoal, onde eu mostro alguns dos meus projetos e habi
 1. Faça o download ou clone este repositório no seu computador.
 2. Abra o arquivo `index.html` em qualquer navegador da web.
 
-Você também pode acessar o portfólio online em [guilhermearaujo-portifolio.netlify.app](https://guilhermearaujo-portifolio.netlify.app/).
+Você também pode acessar o portfólio online clicando [aqui](https://slotov-7.github.io/Portfolio/).
 
 ## Recursos
 
